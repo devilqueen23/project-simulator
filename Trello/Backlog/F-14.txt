@@ -1,0 +1,1 @@
+Bulk update permissions for Manager

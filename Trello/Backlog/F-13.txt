@@ -1,0 +1,1 @@
+View customer list for Manager
